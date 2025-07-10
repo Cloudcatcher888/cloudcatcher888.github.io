@@ -20,17 +20,14 @@ Education
 Work experience
 ======
 * Oct. 2024 – Present: Algorithm Researcher & Joint Postdoctoral Researcher  
-  * [Alibaba DAMO Academy, Foundation Intelligence Center](https://damo.alibaba.com/), focusing on research of multi-modal large models.  
-  * Joint Postdoc at Fudan University.  
-    - Postdoc Station Supervisor: **Prof. Deli Zhao**  
-    - Mobile Station Supervisor: **Prof. Weihua Zhang**
+  * [Alibaba DAMO Academy, Foundation Intelligence Center](https://damo.alibaba.com/), focusing on research of multi-modal LLMs, supervised by **Prof. Deli Zhao**.
+  * Joint Postdoc at Fudan University, supervised by **Prof. Weihua Zhang**.
 
 * July 2023 – Sept. 2024: Research Intern  
   * Meituan, supervised by **Prof. Yichun Li**.
 
 * Dec. 2021 – Dec. 2022: Research Intern  
   * Tencent, supervised by **Zibin Zhang** and **Kangyi Lin**.
-  * We studied incremental learning for CTR prediction by resampling data with features which had not been updated for a while. We deployed our feature-staleness-aware CTR prediction method on the WeChat Official Accounts Platform and achieved prominent improvements in A/B test.
 
 News
 ======
